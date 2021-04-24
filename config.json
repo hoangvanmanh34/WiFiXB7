@@ -1,0 +1,10 @@
+{
+	"DUT_IP": "10.0.0.1",
+	"WiFi24GHz_IP": "10.0.0.1",
+	"WiFi5GHz_IP": "10.0.0.1",
+	"WiFi6GHz_IP": "10.0.0.1",
+	"WiFi24GHz_SSID": "OBA-WiFi-2.4G-001",
+	"WiFi5GHz_SSID": "OBA-WiFi-5G-001",
+	"WiFi6GHz_SSID": "OBA-WiFi-6G-001",
+	"DUT_SN_Length": 18
+}
